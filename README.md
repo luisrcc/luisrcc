@@ -8,6 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=luisrcc&style=flat-square&color=blue" alt=""/>
 <h1>
  Hola visitante
-  <img src="https://media.giphy.com/media/N0PFV6nGA72XC/giphy.gif width="30px"/>
+  <img src="https://media.giphy.com/media/N0PFV6nGA72XC/giphy.gif" width="30px"/>
 </h1>
 </div>
