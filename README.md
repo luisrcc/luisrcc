@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=luisrcc&style=flat-square&color=blue" alt=""/>
 <h1>
- Hola visitante
+ Hola Visitante
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 </div>
@@ -44,5 +44,5 @@ Soy Desarrollador Web Full Stack <img src="https://media.giphy.com/media/zOvBKUU
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisrcc&theme=city-lights&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisrcc&theme=city-lights&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats);
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrcc&layout=compact)](https://github.com/luisrcc/github-readme-stats)
