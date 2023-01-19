@@ -44,6 +44,4 @@ Soy Desarrollador Web Full Stack <img src="https://media.giphy.com/media/zOvBKUU
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=luisrcc
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisrcc&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisrcc&theme=dark&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisrcc&theme=city-lights&border_radius=5&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
