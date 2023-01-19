@@ -17,11 +17,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Soy Desarrollador Web Full Stack <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> from Chile.
+- :telescope: Estoy creciendo como desarrollador web y trabajo con frontend y backend para crear aplicaciones web.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Actualmente exploro las aplicaciones moviles para Android y IOS
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: En mi tiempo libre me gusta leer, compartir con mi familia y conocer lugares nuevos.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscastillochacin/)
